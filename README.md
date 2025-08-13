@@ -84,8 +84,3 @@ npm start
 
 ### Booking Page
 ![Booking Page](assets/booking-page.png)
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
